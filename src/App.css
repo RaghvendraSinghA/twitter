@@ -1,0 +1,51 @@
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.contnet {
+  min-width: 100%;
+}
+
+.sidebar {
+  min-height: 100vh;
+}
+
+.spanedit {
+  margin: 5px;
+  border: 1px orange solid;
+}
+
+.cardedit {
+  margin-top: 10px !important;
+  margin-left: 85px !important;
+  border: 3px grey solid !important;
+  padding: 10px !important;
+  border-radius: 10px !important;
+  background-color: white !important;
+  min-width: 500px !important;
+}
+
+.cardtext {
+  font-size: 14px;
+  color: purple;
+}
+
+.commentinput {
+  height: 150px;
+
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.loading {
+  margin: 200px 150px;
+}
+
+.profilepic {
+  height: 50px;
+  width: 50px;
+  object-fit: contain;
+}
